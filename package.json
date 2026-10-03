@@ -1,0 +1,12 @@
+{
+  "name": "finance-ratio-analyzer",
+  "version": "1.0.0",
+  "description": "Corporate finance ratio dashboard with a Claude-powered explainer.",
+  "private": true,
+  "scripts": {
+    "dev": "npx vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
